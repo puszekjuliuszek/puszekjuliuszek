@@ -2,7 +2,7 @@
 
 Im putting here stuff i do at uni and for fun. 
 
-### Interesting repos that I commited to
+## Interesting repos that I commited to
 <ul>
   <li><a href = "">C files parser</a></li>
   <li><a href = "">Internship at Centre de Recherche en Informatique</a></li>
