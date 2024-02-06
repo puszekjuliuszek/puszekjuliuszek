@@ -5,6 +5,7 @@ Im putting here stuff i do at uni and for fun.
 
 ## Interesting repos that I commited to
 <ul>
+   <li><a href = "https://github.com/aghbit/Juliusz">Juliusz framework</a> - continuation of my CRI Research as a group project in KN BIT</li>
   <li><a href = "https://github.com/puszekjuliuszek/my_c_files_parser">C files parser</a> - parses code written in C using pycparer library and returns json with features of the code</li>
   <li><a >Internship at Centre de Recherche en Informatique</a> - first part of my research on code optimisation</li>
   <li><a href = "https://github.com/MyKarcio123/OOPlab/tree/main/proj1">Evolution game</a> - Object oriented project in java</li>
